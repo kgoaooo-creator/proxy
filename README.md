@@ -1,3 +1,4 @@
+手动下载合适的架构的xray-core,并放在以下文件同一个目录中 patch_config.sh 生成配置文件 安装
 linux运行以下文件
 
 install.sh  安装
